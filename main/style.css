@@ -155,6 +155,11 @@ input#geneQuery.center-align {
     text-align: center;
 }
 
+.select2-selection--multiple {
+    width: 600px;
+    margin-right: 35%;
+}
+
 #cancerQuerySelectBox {
     margin-bottom: 10px;
     margin-top: 10px;
